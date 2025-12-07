@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.ayrix15.app",
+        "sha256_cert_fingerprints": ["EA:19:28:DA:F1:2B:EA:80:C3:F6:4B:11:24:C5:2E:2B:91:70:10:DA:C7:40:3F:82:C0:5E:A3:A6:EC:4B:21:50"]
+      }
+    }]
